@@ -1,7 +1,7 @@
 {
   "name": "motia-yt",
   "description": "",
-  "version":"1.0.0",
+  "version": "1.0.0",
   "scripts": {
     "postinstall": "motia install",
     "dev": "motia dev",
